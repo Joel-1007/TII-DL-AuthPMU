@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/IEEE-TII%202026-blue?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE TII 2026"/>
+<a href="https://ieeexplore.ieee.org/abstract/document/11457698"><img src="https://img.shields.io/badge/IEEE%20Xplore-Read%20Paper-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Xplore"/></a>
+<img src="https://img.shields.io/badge/DOI-10.1109%2FTII.2026.3673230-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Status-Published-brightgreen?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Python-3.9%2B-yellow?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-2.x-orange?style=for-the-badge&logo=tensorflow&logoColor=white"/>
@@ -496,6 +497,8 @@ The notebook walks through:
 
 If you use this work in your research, please cite:
 
+📄 **[Read on IEEE Xplore →](https://ieeexplore.ieee.org/abstract/document/11457698)**
+
 ```bibtex
 @article{joel2026deep,
   title     = {Deep Learning-Based Anomaly Detection and Authenticated Encryption
@@ -505,7 +508,8 @@ If you use this work in your research, please cite:
   journal   = {IEEE Transactions on Industrial Informatics},
   year      = {2026},
   publisher = {IEEE},
-  note      = {DOI: 10.1109/TII.2026.3673230}
+  doi       = {10.1109/TII.2026.3673230},
+  url       = {https://ieeexplore.ieee.org/abstract/document/11457698}
 }
 ```
 
@@ -536,7 +540,9 @@ This repository is provided for academic and research purposes. The published pa
 
 **⭐ If this work helped your research, please star this repository! ⭐**
 
-[![IEEE TII](https://img.shields.io/badge/Published%20in-IEEE%20TII%202026-003087?style=for-the-badge&logo=ieee)](https://ieeexplore.ieee.org)
+[![IEEE TII](https://img.shields.io/badge/Published%20in-IEEE%20TII%202026-003087?style=for-the-badge&logo=ieee)](https://ieeexplore.ieee.org/abstract/document/11457698)
+
+[![IEEE Xplore](https://img.shields.io/badge/IEEE%20Xplore-Full%20Paper%20Access-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/abstract/document/11457698)
 
 *Combining Deep Learning · Cryptography · Edge AI for Industrial Cyber-Physical Security*
 
